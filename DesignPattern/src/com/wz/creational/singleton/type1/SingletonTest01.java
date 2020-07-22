@@ -3,7 +3,6 @@ package com.wz.creational.singleton.type1;
 /**
  * @author 隔壁老王
  * @create 2020-04-25 7:51
- * @bilibili https://space.bilibili.com/320299990
  * @description
  */
 public class SingletonTest01 {
